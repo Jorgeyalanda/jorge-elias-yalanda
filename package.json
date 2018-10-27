@@ -1,0 +1,23 @@
+{
+  "name": "ejemplo-cv",
+  "version": "1.0.0",
+  "description": "jorge misak js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jorge elias yalanda",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorgeyalanda/jorge-elias-yalanda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jorgeyalanda/jorge-elias-yalanda/issues"
+  },
+  "homepage": "https://github.com/Jorgeyalanda/jorge-elias-yalanda#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
